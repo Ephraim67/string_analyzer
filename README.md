@@ -246,7 +246,7 @@ dotenv
 ### Author
 
 **Ephraim Norbert**
-**💼 Backend Developer — Fintech & API Systems**
+* *💼 Backend Developer — Fintech & API Systems*
 * 📧 [norbert.ephraim0@gmail.com]
 * 🌍 [https://github.com/Ephraim67](https://github.com/Ephraim67)
 
