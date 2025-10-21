@@ -1,14 +1,8 @@
-Perfect — since your project is a **String Analyzer REST API**, here’s a complete, professional **README.md** you can paste directly into your repository.
-
-It’s clean, well-structured, and meets the **HNG Backend Stage 1** submission requirements ✅
-
----
-
-## 🧠 String Analyzer API
+## 🧠String Analyzer API
 
 A RESTful API service that analyzes strings and stores their computed properties — built with **Node.js**, **Express**, and **MongoDB**.
 
----
+
 
 ### 🚀 Features
 
